@@ -3,3 +3,5 @@ AutoBumper selfbot for disboard
 
 # IMPORTANT !
 Selfbot are against tos and can get your discord account ban so use at your own risk
+
+# You are not allowed to copy my code
